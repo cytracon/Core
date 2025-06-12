@@ -1,5 +1,5 @@
 @font-face {
-  font-family: 'Magezon-Icons';
+  font-family: 'Cytracon-Icons';
   src:  url('../fonts/mgz_icons.eot?lbpphw');
   src:  url('fonts/mgz_icons.eot?lbpphw#iefix') format('embedded-opentype'),
   url('../fonts/mgz_icons.ttf?lbpphw') format('truetype'),
@@ -11,7 +11,7 @@
 
 .mgz-icon {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'Magezon-Icons' !important;
+  font-family: 'Cytracon-Icons' !important;
   speak: none;
   font-style: normal;
   font-weight: normal;
@@ -187,7 +187,7 @@
 .mgz-icon-countdown:before {
   content: "\e818";
 }
-.mgz-icon-magezon-pagebuilder:before {
+.mgz-icon-cytracon-pagebuilder:before {
   content: "\e922";
 }
 .mgz-icon-checkbox:before {
