@@ -1,2 +1,2 @@
-# Magezon Core extension for Magento 2
+# Cytracon Core extension for Magento 2
 Content is coming soon.
