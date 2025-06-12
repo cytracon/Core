@@ -25,7 +25,7 @@ class Categories
     /**#@+
      * Category tree cache id
      */
-    const CATEGORY_TREE_ID = 'MAGEZON_CATEGORY_TREE';
+    const CATEGORY_TREE_ID = 'CYTRACON_CATEGORY_TREE';
 
     /**
      * @var CacheInterface
